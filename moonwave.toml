@@ -1,0 +1,2 @@
+title = "DS0"
+classOrder = ["DS0", "ServerDS0", "ClientDS0", "DS0Player"]
